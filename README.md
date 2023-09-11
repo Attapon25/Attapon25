@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Attapon Nullaong < tun ></h1>
 <h3 align="center">I am excited to embrace new challenges, learn on the job, and adapt to the professional environment seamlessly.</h3>
-<p><img align="right" alt="Attapon Nullaong's Dev Card" width ="200" src="https://api.daily.dev/devcards/a021973d97774e70a4475a4369c560aa.png?r=pmy"  /></p>
+<p><img align="right" alt="Attapon Nullaong's Dev Card" width ="350" src="https://api.daily.dev/devcards/a021973d97774e70a4475a4369c560aa.png?r=pmy"  /></p>
 - 🌍 **I'm based in Bangkok, Thailand**
 
 - 🌱 I’m currently learning **React, Node**
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=attapon25&show_icons=true&locale=en&layout=compact" alt="attapon25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=attapon25&show_icons=true&locale=en" alt="attapon25" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=attapon25&show_icons=true&locale=en" alt="attapon25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=attapon25&" alt="attapon25" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=attapon25&" alt="attapon25" /></p>
