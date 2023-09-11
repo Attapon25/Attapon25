@@ -1,7 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Attapon Nullaong < tun ></h1>
 <h3 align="center">I am excited to embrace new challenges, learn on the job, and adapt to the professional environment seamlessly.</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<p><img align="right" alt="Attapon Nullaong's Dev Card" width ="200" src="https://api.daily.dev/devcards/a021973d97774e70a4475a4369c560aa.png?r=pmy"  /></p>
 - 🌍 **I'm based in Bangkok, Thailand**
 
 - 🌱 I’m currently learning **React, Node**
