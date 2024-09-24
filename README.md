@@ -3,7 +3,7 @@
 <p><img align="right" alt="Attapon Nullaong's Dev Card" width ="350" src="https://api.daily.dev/devcards/a021973d97774e70a4475a4369c560aa.png?r=pmy"  /></p>
 - 🌍 **I'm based in Bangkok, Thailand**
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **Typescript, Postgresql**
 
 - 📫 How to reach me **attapon.tun25@gmail.com**
 
